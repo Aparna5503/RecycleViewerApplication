@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRecycleViewerApplication</string>
+
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+
+    <string name="API_KEY">29a8bc3c1e404730af762bb4b5cafc60</string>
+
+</resources>
